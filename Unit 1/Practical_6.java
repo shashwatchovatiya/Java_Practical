@@ -1,3 +1,4 @@
+//! Write a program to calculate the area of square and rectangle by over loading the area method.
 public class Practical_6{
 
     // Method to calculate the area of a square (side * side)

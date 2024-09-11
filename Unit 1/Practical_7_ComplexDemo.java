@@ -1,4 +1,4 @@
-// Renamed class Complex
+//! Create a complex number class. The class should have a constructor and methods to add, subtract and multiply two complex numbers and to return the real and imaginary parts.
 class Complex {
     int real, img;
 

@@ -1,3 +1,4 @@
+// ! Write a program to calculate the hypotenuse of right angled triangle when other sides of the triangle are given. (Hypotenuse = square root (x*x + Y *Y))
 import java.util.Scanner;
 
 public class Practical_5{

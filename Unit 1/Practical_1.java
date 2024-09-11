@@ -1,3 +1,6 @@
+// ! Write a program to evaluate simple interest of a given principle, rate and time
+
+//! Using Scan Method
 // import java.util.Scanner;
 
 // public class Practical_1 {
@@ -28,13 +31,13 @@
 //         input.close();
 //     }
 // }
-class Practical_1
-{
- public static void main(String args[])
- {
 
- float P = 50000, R = 3, T = 2;
- float SI = (P * T * R) / 100;
- System.out.println ("Simple interest = " + SI);
- }
+//! using Simple Method
+class Practical_1 {
+    public static void main(String args[]) {
+
+        float P = 50000, R = 3, T = 2;
+        float SI = (P * T * R) / 100;
+        System.out.println("Simple interest = " + SI);
+    }
 }
